@@ -8,6 +8,7 @@
 
             Console.WriteLine("HELLO, this is your Shop Market");
             shoppingSystem.DisplayMenu();
+            
         }
     }
 }
